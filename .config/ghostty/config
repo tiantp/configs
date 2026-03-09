@@ -1,0 +1,13 @@
+# Colors & Theme
+# Match your Neovim theme
+theme = Catppuccin Macchiato  
+
+# Performance & Rendering
+# Or your preferred Nerd Font
+font-family = JetBrainsMono Nerd Font
+font-size = 14
+cursor-style = block
+cursor-style-blink = false
+
+# Mouse support for Neovim splits
+mouse-hide-while-typing = true
